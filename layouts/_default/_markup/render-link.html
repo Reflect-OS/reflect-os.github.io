@@ -1,0 +1,20 @@
+{{ if (strings.HasPrefix .Destination "mailto") -}}
+  {{ with .Text -}}
+    {{ partial "main/email" (dict "emailAddress" $.Destination "emailTitle" .) }}
+  {{ else -}}
+    {{ partial "main/email" (dict "emailAddress" $.Destination) }}
+  {{ end -}}
+{{ else -}}
+  {{ $isExternal := strings.HasPrefix .Destination "http"}}
+  <a
+    class="link-primary text-decoration-underline link-offset-1 link-underline-opacity-50 link-underline-opacity-100-hover"
+    href="{{ .Destination | safeURL }}"
+    {{ with .Title}}title="{{ . }}"{{ end }}
+    {{ if $isExternal}}
+		  target = "_blank"
+		  rel = "nofollow noopener noreferrer"
+	  {{ end }}
+  >
+      {{ .Text | safeHTML }}
+  </a>
+{{- end -}}
