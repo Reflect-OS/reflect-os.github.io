@@ -1,13 +1,13 @@
 # Hugo
 title = "ReflectOS"
-description = "Congrats on setting up a new Doks project!"
+description = "ReflectOS is the approachable, configurable, and extensible Open Source Operating System for your Raspberry Pi smart mirror project."
 images = ["cover.png"]
 
 # mainSections
 mainSections = ["docs"]
 
-[social]
-twitter = "getdoks"
+# [social]
+# twitter = "getdoks"
 
 # Doks (@thulite/doks-core)
 [doks]
