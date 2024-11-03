@@ -79,7 +79,7 @@ imageSingle = true   # true (default) or false
 editPage = true                                       # false (default) or true
 lastMod = true                                        # false (default) or true
 repoHost = "GitHub"                                   # GitHub (default), Gitea, GitLab, Bitbucket, or BitbucketServer
-docsRepo = "https://github.com/Reflect-OS/reflect-os"
+docsRepo = "https://github.com/Reflect-OS/reflect-os.github.io"
 docsRepoBranch = "main"                               # main (default), master, or <branch name>
 docsRepoSubPath = ""                                  # "" (none, default) or <sub path>
 
