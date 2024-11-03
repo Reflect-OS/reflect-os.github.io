@@ -21,7 +21,7 @@ Otherwise, you can use the contact form below to get in touch with us.
 
 ### Contact Form
 
-<form action="https://formsubmit.co/034929d9bb09fd61a90b0abe43ea57ef" method="POST">
+<form action="https://formsubmit.co/a1f4199691402fe53e20fab6cea130f5" method="POST">
   <input type="hidden" name="_next" value="https://reflect-os.github.io/thanks">
   <div class="mb-3">
     <label for="exampleFormControlInput1" class="form-label">

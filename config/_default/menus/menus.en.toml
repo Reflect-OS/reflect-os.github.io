@@ -29,14 +29,19 @@
 # url = "/tutorial/lorem/"
 
 [[main]]
-name = "Docs"
+name = "About"
 url = "/docs/getting-started/about/"
 weight = 10
 
 [[main]]
+name = "Quickstart"
+url = "/docs/getting-started/quickstart/"
+weight = 20
+
+[[main]]
 name = "Downloads"
 url = "/downloads"
-weight = 20
+weight = 30
 
 # [[social]]
 #   name = "X"

@@ -14,6 +14,18 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
+## What is a Smart Mirror?
+
+A smart mirror is a two-way mirror with a display behind the glass that shows information and allows the user to interact with it.  You can almost think of it as a mirror with a heads up display.  Smart mirrors are used in a variety of settings, both residential and commerical and can add a futuristic feel while still blending in with your room decor - it doesn't feel like "just another screen".
+
+{{< figure
+  src="/images/about.png"
+  alt="ReflectOS Powered Smart Mirror"
+  caption="ReflectOS Powered Smart Mirror"
+>}}
+
+## About ReflectOS
+
 ReflectOS is designed to be a "batteries included" OS for your smart mirror or display project.
 It aims to allow you to tinker with your system and adapt it to your changing needs without needing
 to do any custom coding.

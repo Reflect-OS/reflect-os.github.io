@@ -280,6 +280,7 @@
     ],
     "ids": [
       "TableOfContents",
+      "about-reflectos",
       "be-approachable",
       "be-configurable",
       "be-extensible",
@@ -325,6 +326,7 @@
       "toc",
       "weather",
       "web-condition",
+      "what-is-a-smart-mirror",
       "what-youll-need",
       "write-some-docs"
     ]

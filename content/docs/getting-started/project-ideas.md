@@ -22,7 +22,7 @@ Smart mirrors are the primary use case for ReflectOS, and there's a lots of ways
 
 The easiest way to is to purchase a [Vilros Magic Mirror v4](https://vilros.com/products/vilros-magic-mirror-v4) - it comes ready to go with everything you need besides a Raspberry Pi and a microSD card.  Just follow the instructions on the [quickstart](/docs/getting-started/quickstart) page and you'll be up and running in minutes.
 
-For those looking to build their own, there are a ton of great resources out there.  One of our favorites is from the offical Raspberry Pi website: https://www.raspberrypi.com/tutorials/how-to-build-a-super-slim-smart-mirror/.  Just note that this tutorial was written for the excellent  MagicMirror project - if you'd like to use ReflectOS, be sure to follow the instructions in these docs for configuring your Raspberry Pi instead of the ones listed.  The hardware steps are the same however, and there are a number of great photos showing the process!
+For those looking to build their own, there are a ton of great resources out there.  One of our favorites is from the offical [Raspberry Pi website](https://www.raspberrypi.com/tutorials/how-to-build-a-super-slim-smart-mirror/).  Just note that this tutorial was written for the excellent  MagicMirror project - if you'd like to use ReflectOS, be sure to follow the instructions in these docs for configuring your Raspberry Pi instead of the ones listed.  The hardware steps are the same however, and there are a number of great photos showing the process!
 
 ## Refrigerator Display
 
