@@ -54,7 +54,7 @@ description.
 
 ## Date/Time
 
-The date/time section is about as straightforward as it get - just shows a digital clock in either 12 or 24 hour format, and provides a variety of date formats as well.  However, as mentioned in the tip above you can also specify the timezone, and could add multiple date/time sections to your dashboard for different geographic locatons.  Like most sections, you can specify an optional label to help keep things organized.
+The date/time section is about as straightforward as it gets - just shows a digital clock in either 12 or 24 hour format, and provides a variety of date formats as well.  However, as mentioned in the tip above you can also specify the timezone, and could add multiple date/time sections to your dashboard for different geographic locatons.  Like most sections, you can specify an optional label to help keep things organized.
 
 {{< figure
   src="/images/sections/date-time.png"
